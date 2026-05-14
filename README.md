@@ -1,9 +1,4 @@
 # 🤖 AI Models — Semester Project
-
-> **Course:** Artificial Intelligence &nbsp;|&nbsp; **Instructor:** Miss Abeeda Akram  
-> **Institution:** National University of Computer and Emerging Sciences (FAST-NUCES), Lahore  
-> **Department:** Computer Science
-
 ---
 
 ## 👥 Team Members
@@ -22,15 +17,14 @@
 ```
 ai-models/
 │
-├── lstm_pm25/
-│   ├── lstm_pm25.ipynb          # Main training notebook
-│   ├── lstm_pm25.py             # Python script version
-│   └── README_LSTM.md           # Model-specific notes
+├── RNN_Model/
+│   ├── rnn.ipynb                # Main training notebook Bi-LSTM
+│   └── DATA                     # Complete Dataset
 │
-├── cnn_lung_cancer/
-│   ├── miniconvnet.ipynb         # CNN from scratch notebook
-│   ├── mobilenetv2_transfer.ipynb# Transfer learning notebook
-│   └── README_CNN.md             # Model-specific notes
+├── CNN_Model/
+│   ├── CNN_MODEL.ipynb         # CNN 2D from scratch notebook
+│   ├── CNN_MODEL_2.ipynb       # MobileNetV2 ( Transfer Learning )
+│   └── DATA                    # Complete Dataset
 │
 ├── reports/
 │   ├── LSTM_PM25_Project_Report.docx
@@ -189,7 +183,3 @@ pip install tensorflow scikit-learn pandas numpy matplotlib pillow jupyter
 5. Chest CT-Scan Images Dataset — [Kaggle](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images)
 
 ---
-
-<p align="center">
-  Made with ❤️ at FAST-NUCES Lahore &nbsp;|&nbsp; BCS-6K &nbsp;|&nbsp; 2024–2025
-</p>
