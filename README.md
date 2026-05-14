@@ -1,4 +1,4 @@
-# 🤖 AI Models — BCS-6K Semester Projects
+# 🤖 AI Models — Semester Project
 
 > **Course:** Artificial Intelligence &nbsp;|&nbsp; **Instructor:** Miss Abeeda Akram  
 > **Institution:** National University of Computer and Emerging Sciences (FAST-NUCES), Lahore  
